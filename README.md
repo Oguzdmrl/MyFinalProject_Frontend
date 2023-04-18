@@ -1,2 +1,3 @@
-# MyFinalProject_Frontend
- Kodlama io kampında öğrenirken geliştirdiğimiz projenin uı kısmı
+# Frontend
+
+Angular CLI-Typescript-Html-Bootstrap
